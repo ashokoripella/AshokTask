@@ -7,7 +7,7 @@
 	<version>1.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>spoon-examples</name>
+	<name>AshokTask</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
